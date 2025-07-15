@@ -75,7 +75,7 @@ You may contact us through the following official channels:
 - **Email:** support@yourdomain.com  
 - **Website:** [https://yourwebsite.com](https://yourwebsite.com)  
 - **Telegram:** [@yourchannel](https://t.me/yourchannel)  
-- **Instagram:** @yourhandle  
+- **Instagram:** @yourhndle  
 
 > Typical response time: 24–48 hours
 
